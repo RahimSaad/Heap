@@ -1,0 +1,7 @@
+E:\_my Coding\Data Structure\Heap\Heap\bin\Debug\Heap.exe.config
+E:\_my Coding\Data Structure\Heap\Heap\bin\Debug\Heap.exe
+E:\_my Coding\Data Structure\Heap\Heap\bin\Debug\Heap.pdb
+E:\_my Coding\Data Structure\Heap\Heap\obj\Debug\Heap.csprojAssemblyReference.cache
+E:\_my Coding\Data Structure\Heap\Heap\obj\Debug\Heap.csproj.CoreCompileInputs.cache
+E:\_my Coding\Data Structure\Heap\Heap\obj\Debug\Heap.exe
+E:\_my Coding\Data Structure\Heap\Heap\obj\Debug\Heap.pdb
